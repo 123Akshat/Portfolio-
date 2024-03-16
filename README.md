@@ -1,27 +1,24 @@
-![Uploading portfolio pic.png…]()
+# Portfolio Web Application
 
-# Netflix-Clone
 
-A simple Netflix Clone made using Next.js ⚡
+This is a web portfolio application crafted with HTML and CSS, designed to exhibit your projects, skills, and offer insight for potential clients or employers to discover more about you and your work. View the website - https://akshatsaxenaportfolio.netlify.app/.
 
-Currently, I have implemented the basic UI with media details fetch functionality.
+# Features
 
-Please leave a ⭐ as motivation if you liked the implementation 😄
+- Responsive Design: The web application is tailored to various screen sizes, guaranteeing a visually appealing experience across desktops, tablets, and mobile devices.
+- Project Showcase: Present your projects with detailed descriptions, screenshots, and direct links to live demos or GitHub repositories.
+- About Me Section: Introduce yourself, sharing insights into your background, skills, and passions.
+- Contact Form: Incorporate a user-friendly contact form, enabling visitors to reach out to you effortlessly.
 
-# Demo
+# Usage
 
-https://user-images.githubusercontent.com/103346687/232338668-6b95faf7-a97e-4e50-b8e8-87991c68827a.mp4
-
-# Live Demo
-
-![11](https://user-images.githubusercontent.com/103346687/232338754-bdc6a659-ab0b-4e69-8c63-3b411949b812.JPG)
-
-(http://localhost:3000) to view it in your browser.
-
-# Built with
-
-- Next.js
-- Typescript
-- Sass
-- TMDB API
-
+1) Customize the content:
+    - Open index.html in a text editor.
+    - Update the existing sections or add new sections as needed.
+    - Replace the project placeholders with your own projects, including project descriptions, screenshots, and links.
+    - Update the About Me section with your own information.
+2) Customize the styling:
+    - Open styles.css in a text editor.
+    - Modify the CSS styles to match your preferred design and color scheme.
+3) Save the changes.
+4) Open index.html in your web browser to view the updated portfolio web application.
